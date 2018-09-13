@@ -7,6 +7,7 @@
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
     "jquery": "3.3.1",
-    "popper.js": "1.12.9"
+    "popper.js": "1.12.9",
+    "fontawesome": "4.7.0"
   }
 }
